@@ -33,8 +33,6 @@ The analysis is descriptive and does not establish causality or profitability. P
 
 ## Next Steps
 
-## Next Steps
-
 - Validate promotional performance across stores and weeks.
 - Improve price sensitivity analysis.
 - Incorporate product costs, promotional costs, and contribution margin measures.
