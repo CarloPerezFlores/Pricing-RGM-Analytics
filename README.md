@@ -13,6 +13,8 @@ Evaluate how pricing and promotional strategies relate to sales volume and reven
 - MySQL Workbench
 - SQL
 - Dunnhumby retail dataset
+- Power BI
+- DAX
 
 ## Key Findings
 
@@ -31,7 +33,9 @@ The analysis is descriptive and does not establish causality or profitability. P
 
 ## Next Steps
 
-- Validate promotional effects across stores and weeks.
+## Next Steps
+
+- Validate promotional performance across stores and weeks.
 - Improve price sensitivity analysis.
-- Incorporate costs and margin measures.
-- Build an executive dashboard with actionable pricing recommendations.
+- Incorporate product costs, promotional costs, and contribution margin measures.
+- Develop controlled tests to estimate incremental sales and promotional ROI.
